@@ -5,7 +5,7 @@
  * @author Gürkan Biçer <gurkan@grkn.co>
  * @version 1.0
  * @since 2015-08-27
- * @link https://gitlab.com/gurkanbicer/spdo
+ * @link https://github.com/gurkanbicer/spdo
  */
 
     #require_once APPPATH . 'config/database.php'; 
